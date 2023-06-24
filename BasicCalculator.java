@@ -1,3 +1,4 @@
+//This is a simple java program for calculations
 import java.util.*;
 
 // Driver class
