@@ -1,0 +1,21 @@
+.footer {
+    background-color: #070505;
+    color: #fff;
+    padding : 10px;
+    text-align: center;
+    display: flex;
+  }
+  
+  .footer .fcontainer p {
+    margin: 0;
+    padding: 10px;
+    
+  }
+  .fcontainer {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+  }
+  .footer .fcontainer img{
+    width: 40px;
+  }

@@ -1,0 +1,104 @@
+    .chat-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    padding : 30px;
+   
+  }
+  
+  
+  /* Hero section styles */
+  .hero {
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    padding: 20px;
+    background-color: #f0f1f4;
+    color: #0b0401;
+    background-image: url('../assests/131499-orange-and-white-polygon-background-template-design.jpg');
+     }
+  
+  .hero h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    
+  }
+  
+  .hero p {
+    font-size: 20px;
+    margin-bottom: 20px;
+  
+  }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+   
+  
+  }
+  /* Feature section styles */
+  .features {
+    display: flex;
+    justify-content: center;
+   
+    background-color: #dda03ee2;
+  }
+  
+  .feature {
+    width: 300px;
+    margin: 0 20px;
+    text-align: center;
+  }
+  
+  .feature i {
+    font-size: 48px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .feature h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .feature p {
+    font-size: 14px;
+    color: #777;
+  }
+  /* Call to Action section styles */
+  .cta {
+    background-color: #333;
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .cta h2 {
+    font-size: 36px;
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  
+  .cta p {
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  
+  .cta button {
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #333;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .cta button:hover {
+    background-color: #555;
+    color: #fff;
+  }
+  
+  
